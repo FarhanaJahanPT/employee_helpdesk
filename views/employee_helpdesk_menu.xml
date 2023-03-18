@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <data>
+        <menuitem id="employee_helpdesk_model" name="Employee Helpdesk"/>
+        <menuitem id="employee_helpdesk_menu" name="All Tickets" action="employee_helpdesk_action" parent="employee_helpdesk_model"/>
+
+
+
+    </data>
+</odoo>
